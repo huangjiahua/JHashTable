@@ -1,1 +1,2 @@
 add_executable(stl_benchmark stl_benchmark.cpp Point3D.h)
+add_executable(jhashtable_benchmark jhashtable_benchmark.cpp)
